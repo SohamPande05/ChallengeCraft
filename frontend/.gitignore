@@ -22,3 +22,39 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# VS Code
+.vscode/
+.history/
+
+# Editor directories and files
+.idea/
+.swp
+.swo
+*.bak
+*.tmp
+
+# Misc
+*.lnk
+~$*
+
+# Ignore by default
+!/.gitignore
+
+.generated_files/
+nbproject/
+Makefile*
+Package-*
+private/
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+.env
+.env.*
+
+# Windows
+Thumbs.db
+Desktop.ini
