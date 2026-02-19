@@ -18,7 +18,12 @@ ChallengeCraft/
 │   ├── vite.config.js
 │   └── src/
 │       ├── App.jsx
-│       └── ...
+│       ├── auth/
+│       ├── challenge/
+│       ├── config/
+│       ├── history/
+│       ├── layout/
+│       └── util/
 └── README.md
 ```
 
