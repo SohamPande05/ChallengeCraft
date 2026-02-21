@@ -2,7 +2,7 @@
 
 ## Overview
 
-ChallengeCraft is a full-stack web application project. It features a modern frontend (React, Vite) and a backend (Python, FastAPI or Flask), following a modular structure for scalability and maintainability.
+ChallengeCraft is a full-stack web application project. It features a modern frontend (React, Vite) and a backend (Python, FastAPI), following a modular structure for scalability and maintainability.
 
 ## Project Structure
 

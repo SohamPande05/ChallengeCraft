@@ -11,6 +11,7 @@ function App() {
  
 
   return (
+    
     <ClerkProviderWithRouters>
       <Routes>
         <Route path="/sign-in/*" element = {<AuthenticationPage />} />
